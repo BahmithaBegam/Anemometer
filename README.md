@@ -70,6 +70,8 @@ settings.gradle
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.jpeg)
+<img width="720" height="1600" alt="WhatsApp Image 2026-08-20 at 7 11 49 PM (1)" src="https://github.com/user-attachments/assets/0a09b075-977a-4e01-878d-f5a60a82e0d1" />
+
 
 ### Anemometer
 ![Anemometer](screenshots/anemometer1.jpeg)
