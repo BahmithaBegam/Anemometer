@@ -78,13 +78,16 @@ settings.gradle
 
 
 ### ADCP
-![ADCP](screenshots/adcp.jpeg)
+<img width="720" height="1600" alt="WhatsApp Image 2026-08-20 at 7 11 50 PM (1)" src="https://github.com/user-attachments/assets/717d133a-74f9-4a75-a433-aa80d5dcc070" />
+
 
 ### GPS
-![GPS & LPA](screenshots/gpsandlpa.jpeg)
+<img width="720" height="1600" alt="WhatsApp Image 2026-08-20 at 7 11 50 PM" src="https://github.com/user-attachments/assets/dcb7802f-bb24-40e4-93fa-7566398ccfdd" />
+
 
 ### Status
-![Status](screenshots/indicators.jpeg)
+<img width="720" height="1600" alt="WhatsApp Image 2026-08-20 at 7 11 48 PM" src="https://github.com/user-attachments/assets/519d57ab-7da5-40e8-966d-28a5c7d66cdb" />
+
 
 ---
 
