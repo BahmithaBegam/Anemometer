@@ -69,13 +69,13 @@ settings.gradle
 
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.jpeg)
 <img width="720" height="1600" alt="WhatsApp Image 2026-08-20 at 7 11 49 PM (1)" src="https://github.com/user-attachments/assets/0a09b075-977a-4e01-878d-f5a60a82e0d1" />
 
 
 ### Anemometer
-![Anemometer](screenshots/anemometer1.jpeg)
-![Anemometer](screenshots/anemometer2.jpeg)
+<img width="720" height="1600" alt="WhatsApp Image 2026-08-20 at 7 11 48 PM (1)" src="https://github.com/user-attachments/assets/ef96431e-4708-4bcb-8ba0-29b18d7e6dc2" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-08-20 at 7 11 49 PM" src="https://github.com/user-attachments/assets/26ac5d0a-e642-4490-95e5-7ca38db4ae9c" />
+
 
 ### ADCP
 ![ADCP](screenshots/adcp.jpeg)
