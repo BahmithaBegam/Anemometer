@@ -99,7 +99,7 @@ settings.gradle
 
 ## 👨‍💻 Developed By
 
-**S. Ilakiya**
+**K.Bahmitha Begam**
 
 Final Year B.E. Computer Science and Engineering
 
